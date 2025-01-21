@@ -12,7 +12,7 @@ Dorks are based on contributions from **CoffinXP**.
 - **Effortless Domain Customization**: Replace `example.com` with your domain of interest.
 - **Advanced Dorks Included**: Search for sensitive files, error pages, vulnerable parameters, cloud storage, and more.
 - **Time-Saving**: Automates dork customization to save time during reconnaissance.
-- **Output File**: Saves results to `updated_dorks.txt`.
+- **Output File**: Saves results to `youroutput.txt`.
 
 ## 🛠️ Installation
 1. Clone the repository:
@@ -31,9 +31,11 @@ Run the script:
 
 python3 generate_dorks.py
 
-Enter your target domain (e.g., yourtarget.com) when prompted.
-View the output dorks in the terminal and the updated_dorks.txt file.
+Enter the target domain when prompted (e.g., `example.com`).
 
+Specify the output file name (e.g., `dorks.txt`).
+
+The generated dorks will be saved to the specified file
 
 ## How it Works
 
