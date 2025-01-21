@@ -1,6 +1,6 @@
-This is a simple Google Dork generator script that uses dorks from CoffinXP and makes your target domain-specific for efficient reconnaissance
+This is a simple Google Dork generator script that uses dorks from **CoffinXP** and makes your target domain-specific for efficient reconnaissance
 
-Dork made by **CoffinXP**.
+
 
 ---
 
@@ -29,7 +29,7 @@ Ensure Python 3.6+ is installed.
 
 Run the script:
 
-python3 generate_dorks.py
+python3 GoogleDorky.git
 
 Enter the target domain when prompted (e.g., `example.com`).
 
