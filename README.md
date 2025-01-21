@@ -47,9 +47,9 @@ The generated dorks will be saved to the specified file
 
 ## 📝 Example of Usage
 
-    Input:
+    Input: google.com
 
-google.com
+
 
 Output:
 
