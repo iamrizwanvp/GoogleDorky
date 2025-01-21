@@ -17,7 +17,7 @@ banner = """
 """
 
 # Credits
-credits = "Dork made by CoffinXP\n"
+credits = "Dorks credits go to CoffinXP\n"
 
 def generate_dorks(domain):
     dorks = [
