@@ -17,8 +17,8 @@ Dorks are based on contributions from **CoffinXP**.
 ## 🛠️ Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/googledorky.git
-
+   git clone https://github.com/iamrizwanvp/GoogleDorky.git
+   
 2. Navigate to the directory:
 
 3. cd googledorky
